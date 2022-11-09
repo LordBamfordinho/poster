@@ -1,1 +1,1 @@
-Please click this [link](https://lordbamfordinho.github.io) to goto my website
+Please click this [link](https://lordbamfordinho.github.io/poster) to goto my website

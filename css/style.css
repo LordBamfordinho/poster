@@ -13,6 +13,11 @@ body{
     font-size: 50px;
 }
 
+.headerparag {
+    text-align: right;
+    font-size: 20px;
+}
+
 .header {
     border: 5px outset red;
     background-color: red;
